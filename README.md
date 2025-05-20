@@ -12,7 +12,7 @@ Proyek ini bertujuan untuk melakukan analisis data pada dataset publik yang beri
 ## Tools dan Teknologi
 - Python (Pandas, Matplotlib, Seaborn, Plotly)
 - Jupyter Notebook
-- Dataset publik e-commerce ([Link dataset: ](https://drive.google.com/file/d/1MsAjPM7oKtVfJL_wRp1qmCajtSG1mdcK/view))
+- Dataset publik e-commerce ([E-Commerce Public Dataset](https://drive.google.com/file/d/1MsAjPM7oKtVfJL_wRp1qmCajtSG1mdcK/view))
 
 ## Manfaat
 Proyek ini berguna untuk praktisi data dan pebisnis yang ingin memahami pola perilaku pelanggan dan performa produk dalam platform e-commerce sehingga dapat mengambil keputusan bisnis yang lebih baik.
